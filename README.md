@@ -1,5 +1,7 @@
 🌿  **HairCoach**
+
 A ciência do embelezamento na palma da sua mão
+
 📌 **Sobre o Projeto**
 
 O HairCoach é um sistema web profissional desenvolvido para transformar o cabeleireiro em um consultor técnico capilar.

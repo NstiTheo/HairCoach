@@ -1,6 +1,6 @@
-🌿 # HairCoach
+🌿  **HairCoach**
 A ciência do embelezamento na palma da sua mão
-📌 Sobre o Projeto
+📌 **Sobre o Projeto**
 
 O HairCoach é um sistema web profissional desenvolvido para transformar o cabeleireiro em um consultor técnico capilar.
 
@@ -8,7 +8,7 @@ A plataforma une tricologia, ética profissional e tecnologia, oferecendo ferram
 
 Este projeto foi desenvolvido com foco educacional e profissional, alinhado aos princípios de qualidade do Serviço Nacional de Aprendizagem Comercial.
 
-🎯 Objetivo
+🎯 **Objetivo**
 
 Criar uma ferramenta digital que:
 
@@ -22,7 +22,7 @@ Estruture o atendimento de forma científica
 
 Transforme o salão em um negócio estratégico
 
-🚀 Funcionalidades Principais
+🚀 **Funcionalidades Principais**
 🩺 1. Scanner de Diagnóstico Capilar (Anamnese Guiada)
 
 Checklist técnico baseado em tricologia:
@@ -49,7 +49,7 @@ Exportação em PDF
 
 Envio via WhatsApp
 
-🎨 2. Simulador “Caminho das Cores”
+🎨 **2. Simulador “Caminho das Cores”**
 
 Ferramenta de apoio à colorimetria:
 
@@ -63,7 +63,7 @@ Alertas de risco estrutural
 
 🚨 Sistema de alerta quando há risco à integridade do fio.
 
-🏠 3. Calculadora de Home Care
+🏠 **3. Calculadora de Home Care**
 
 Geração automática de orientações pós-procedimento:
 
@@ -77,7 +77,7 @@ Temperatura ideal da água
 
 Uso de protetor térmico
 
-📚 4. Biblioteca Técnica
+📚 **4. Biblioteca Técnica**
 
 Seção educativa com explicações simplificadas para clientes:
 
@@ -89,7 +89,7 @@ Desnaturação proteica
 
 Fundo de clareamento
 
-🚦 5. Semáforo da Química
+🚦 **5. Semáforo da Química**
 
 Sistema visual para avaliação de risco:
 
@@ -99,7 +99,7 @@ Sistema visual para avaliação de risco:
 
 🟢 Verde: Liberado para transformação
 
-🛍️ 6. Prescrição Digital
+🛍️ **6. Prescrição Digital**
 
 Lista personalizada de produtos
 
@@ -107,7 +107,7 @@ Registro de recomendações
 
 Apoio à venda consultiva
 
-🧪 7. Calculadora de Misturas
+🧪 **7. Calculadora de Misturas**
 
 Proporções de pó descolorante + OX
 
@@ -115,7 +115,7 @@ Ajuste técnico seguro
 
 Redução de erros de formulação
 
-🎓 8. Área de Atualização Profissional
+🎓 **8. Área de Atualização Profissional**
 
 Vídeos técnicos
 
@@ -123,7 +123,7 @@ Tendências
 
 Dicas profissionais
 
-💎 9. Sistema de Fidelidade
+💎 **9. Sistema de Fidelidade**
 
 Pontuação por tratamentos
 
@@ -131,7 +131,7 @@ Benefícios para clientes recorrentes
 
 Estratégias de retenção
 
-💰 10. Relatórios de Rentabilidade
+💰 **10. Relatórios de Rentabilidade**
 
 Lucro por procedimento
 
@@ -153,7 +153,7 @@ Atendimento consultivo e educativo
 
 Interface visual e moderna
 
-🛠️ Tecnologias Utilizadas
+🛠️ **Tecnologias Utilizadas**
 
 PHP
 

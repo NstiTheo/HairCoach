@@ -167,4 +167,3 @@ Sistema visual para avaliação de risco:
 
 - JavaScript
 
-Gabriel e Nilo

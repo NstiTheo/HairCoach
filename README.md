@@ -1,4 +1,4 @@
-🌿 HairCoach
+🌿 # HairCoach
 A ciência do embelezamento na palma da sua mão
 📌 Sobre o Projeto
 

@@ -13,6 +13,37 @@
     <!-- TailwindCSS CDN -->
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
+<style>
+    .btn-acessar {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 14px 28px;
+
+        font-size: 16px;
+        font-weight: 600;
+        text-decoration: none;
+
+        color: #fff;
+
+        border-radius: 10px;
+
+        background: linear-gradient(135deg, #6a5cff, #00c2ff);
+
+        transition: all .3s ease;
+
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    }
+
+    .btn-acessar:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+    }
+
+    .btn-acessar:active {
+        transform: scale(.97);
+    }
+</style>
 
 <body class="bg-white dark:bg-gray-900">
 
@@ -54,9 +85,8 @@
                 <div class="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
 
                     <!-- BOTÃO PRINCIPAL -->
-                    <a href="dashboard.php"
-                        class="w-full sm:w-auto rounded-lg bg-blue-500 px-6 py-3 text-sm sm:text-base font-semibold text-white shadow-md hover:bg-blue-600 transition">
-                        Acessar Registros
+                    <a href="acessar.php" class="btn-acessar">
+                        <span>Acessar Sistema</span>
                     </a>
 
                     <!-- BOTÃO SECUNDÁRIO -->
